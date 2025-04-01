@@ -1,8 +1,5 @@
 # Rebuttal_WD_Mamba
 
-# Project Files
-
-## Images and Tables
 
 ### CelebA Dataset  
 ![Celeba_512x512](Celeba_512x512.png)
